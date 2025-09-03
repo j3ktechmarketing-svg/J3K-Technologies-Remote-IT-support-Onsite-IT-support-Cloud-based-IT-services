@@ -60,12 +60,4 @@ This repository is designed to provide businesses, developers, and IT profession
 
 ---
 
-## Contact
-
-**J3K Technologies**  
-Website: [https://www.j3ktech.com/](https://www.j3ktech.com/)  
-Email: info@j3ktech.com  
-
----
-
 If you find this repository helpful, consider starring it to support our mission of delivering high-quality **IT support and cloud services** to the community.
