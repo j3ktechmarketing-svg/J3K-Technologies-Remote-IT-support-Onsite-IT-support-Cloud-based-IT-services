@@ -55,9 +55,3 @@ We stand out for:
 - Cost-effective solutions tailored to SMBs and enterprises  
 - 24/7 availability and fast response times  
 - Deep expertise in IT consulting, management, and outsourcing  
-
-This repository is designed to provide businesses, developers, and IT professionals with resources that showcase how J3K Technologies helps organizations achieve secure, efficient, and reliable IT operations.
-
----
-
-If you find this repository helpful, consider starring it to support our mission of delivering high-quality **IT support and cloud services** to the community.
